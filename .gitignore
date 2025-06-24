@@ -1,0 +1,6 @@
+# Ignore environment folders
+venv/
+models/
+src/__pycache__/
+.env
+evaluation_report.json
