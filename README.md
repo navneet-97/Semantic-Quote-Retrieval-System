@@ -7,25 +7,6 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline to s
 
 ---
 
-## 📁 Project Structure
-
-```
-quote_rag_system/
-├── data/
-│   └── processed_quotes.json 
-├── models/
-│   └── fine_tuned_model/ 
-├── src/
-│   ├── data_preparation.py 
-│   ├── model_training.py 
-│   ├── rag_pipeline.py
-│   ├── evaluation.py 
-│   └── streamlit_app.py 
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## 🚀 How to Run
 
